@@ -12,6 +12,7 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.12",
     "ahooks": "^3.9.5",
+    "axios": "^1.12.2",
     "openai": "^5.16.0",
     "prettier": "^3.6.2",
     "react": "^19.1.1",

@@ -20,6 +20,7 @@ export default defineConfig(({mode}) => {
           if(id.includes('node_modules')) {
             return 'vendor';
           }
+          
         }
       }
     }
